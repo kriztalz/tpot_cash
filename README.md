@@ -9,7 +9,7 @@ Great game! Thank you so much for this @rodmarkun
 1. Edit the config to your liking
 2. Set your username and password or add the arguments to the start command:
 
-  > python3 main.py [-user arkansas -password arkansas]
+  > python3 main.py [-username arkansas -password arkansas]
 
 The bot will auto-complete the collection and all the secrets, favorising the cheapest option each time:
 
