@@ -16,7 +16,7 @@ The bot will auto-complete the collection and all the secrets, favorising the ch
 ![image](https://github.com/user-attachments/assets/07180f7c-c9d2-4c1d-b40c-ac9827a4bc2b) ![image](https://github.com/user-attachments/assets/ca60422e-6456-46c4-9fb1-2635186551e1)
 
 
-Enjoy getting a certificate without too much time spent in front off this teapot (you need to touch grass)
+Enjoy getting a certificate without too much time spent in front of this teapot (you need to touch grass)
 
 NB: Please refrain from implementing an auto sell function, it will just ruin the market for everyone!
 
