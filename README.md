@@ -1,0 +1,2 @@
+# tpot_cash
+TPOT TGC SPEEDRUN BOT
