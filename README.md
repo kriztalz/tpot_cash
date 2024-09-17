@@ -1,5 +1,5 @@
 # tpot_cash
-TPOT TGC SPEEDRUN BOT
+TPOT TCG SPEEDRUN BOT
 
 Bot for https://tpot-tcg.com/
 Great game! Thank you so much for this @rodmarkun 
